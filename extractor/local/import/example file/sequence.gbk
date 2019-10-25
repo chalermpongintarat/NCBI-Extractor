@@ -1,0 +1,798 @@
+LOCUS       KY972579                 372 bp    RNA     linear   VRL 06-AUG-2017
+DEFINITION  Porcine reproductive and respiratory syndrome virus strain North
+            American type 2 isolate PRRS/ORF7/Chile/Maipo/2014 nucleocapsid
+            protein (N) gene, complete cds.
+ACCESSION   KY972579
+VERSION     KY972579.1  GI:1226859227
+KEYWORDS    .
+SOURCE      Porcine reproductive and respiratory syndrome virus
+  ORGANISM  Porcine reproductive and respiratory syndrome virus
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage;
+            Nidovirales; Arteriviridae; unclassified Arteriviridae.
+REFERENCE   1  (bases 1 to 372)
+  AUTHORS   Neira,V., Brito,B., Mena,J., Culhane,M., Apel,M.I., Max,V.,
+            Perez,P., Moreno,V., Mathieu,C., Johow,M., Badia,C., Torremorell,M.,
+            Medina,R. and Ortega,R.
+  TITLE     Epidemiological investigations of the introduction of porcine
+            reproductive and respiratory syndrome virus in Chile, 2013-2015
+  JOURNAL   PLoS ONE 12 (7), E0181569 (2017)
+   PUBMED   28742879
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 372)
+  AUTHORS   Neira,V. and Mena,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2017) Foreign Animal Disease Research Unit, Plum
+            Island Animal Disease Center, USDA/ARS, P.O. Box 848, Greenport, NY
+            11944, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..372
+                     /organism="Porcine reproductive and respiratory syndrome
+                     virus"
+                     /mol_type="genomic RNA"
+                     /strain="North American type 2"
+                     /isolate="PRRS/ORF7/Chile/Maipo/2014"
+                     /host="Sus scrofa domesticus"
+                     /db_xref="taxon:28344"
+                     /country="Chile"
+                     /collection_date="Jun-2014"
+     gene            1..372
+                     /gene="N"
+                     /note="ORF7"
+     CDS             1..372
+                     /gene="N"
+                     /codon_start=1
+                     /product="nucleocapsid protein"
+                     /protein_id="ASQ15651.1"
+                     /db_xref="GI:1226859228"
+                     /translation="MPNNNGKQQKRKKGDGQPVNQLCQMLSRIIAQQNQPRGKGPGKRN
+                     KKKSSEKPHFPLATEDDVRHHFTPSERQLCLSSLQTAFNQGAGTCTLSDSGRVSYAVEF
+                     SLPTHHTVRLIRATTSPSA"
+ORIGIN
+        1 atgccaaata ataacggcaa gcagcagaaa agaaaaaagg gggatggcca gccagtcaat
+       61 cagctgtgcc agatgctgag caggattatc gcccagcaaa accagcccag aggtaaggga
+      121 ccgggaaaaa ggaataagaa gaaaagctcg gagaagcccc attttcctct ggcgactgaa
+      181 gatgatgtta gacatcactt tacccctagt gagcgacaac tgtgtctgtc gtcactccaa
+      241 actgccttca accaaggcgc tgggacttgc accctgtcag actcgggtag ggtgagttat
+      301 gcagtggagt ttagtttgcc tacgcatcac actgtgcgcc tgattcgcgc cacaacatca
+      361 ccctcagcat ga
+//
+LOCUS       KY972578                 600 bp    RNA     linear   VRL 06-AUG-2017
+DEFINITION  Porcine reproductive and respiratory syndrome virus strain North
+            American type 2 isolate PRRS/MQ.3/Chile/2006 glycoprotein 5 (GP5)
+            gene, partial cds.
+ACCESSION   KY972578
+VERSION     KY972578.1  GI:1226859225
+KEYWORDS    .
+SOURCE      Porcine reproductive and respiratory syndrome virus
+  ORGANISM  Porcine reproductive and respiratory syndrome virus
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage;
+            Nidovirales; Arteriviridae; unclassified Arteriviridae.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Neira,V., Brito,B., Mena,J., Culhane,M., Apel,M.I., Max,V.,
+            Perez,P., Moreno,V., Mathieu,C., Johow,M., Badia,C., Torremorell,M.,
+            Medina,R. and Ortega,R.
+  TITLE     Epidemiological investigations of the introduction of porcine
+            reproductive and respiratory syndrome virus in Chile, 2013-2015
+  JOURNAL   PLoS ONE 12 (7), E0181569 (2017)
+   PUBMED   28742879
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Moreno,V., Mathieu,C., Agredo,M., Rojas,M., Gutierrez,C. and
+            Johow,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2017) Foreign Animal Disease Research Unit, Plum
+            Island Animal Disease Center, USDA/ARS, P.O. Box 848, Greenport, NY
+            11944, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Porcine reproductive and respiratory syndrome
+                     virus"
+                     /mol_type="genomic RNA"
+                     /strain="North American type 2"
+                     /isolate="PRRS/MQ.3/Chile/2006"
+                     /isolation_source="commercial unidentified"
+                     /host="Sus scrofa domesticus"
+                     /db_xref="taxon:28344"
+                     /country="Chile"
+                     /collection_date="2006"
+     gene            1..>600
+                     /gene="GP5"
+                     /note="ORF5"
+     CDS             1..>600
+                     /gene="GP5"
+                     /codon_start=1
+                     /product="glycoprotein 5"
+                     /protein_id="ASQ15650.1"
+                     /db_xref="GI:1226859226"
+                     /translation="MLGRCLTAGYCSQLLFLWCIVPFCSVVLVSANSNSSSHLQSIYNL
+                     TLCELNGTDWLANKFDWAVESFVIFPVLTHIVSYGALTTSHFLDTVGLVTVSAAGFVHG
+                     RYVLSSIYAVCALAALVCFIIRSAKNCMSWRYSCTRYTNFPLDTKGRIYRWRSPVIIEK
+                     RGKVEVEGHLIDLKRVVLDGSAATPVTRVSAEQWGRP"
+ORIGIN
+        1 atgttgggga gatgcttgac cgcgggctat tgctcgcaat tgcttttttt gtggtgtatc
+       61 gtgccgttct gttctgttgt gctcgtcagc gccaacagca acagcagctc ccatttgcaa
+      121 tcaatttaca acttgacgct atgtgagctg aatggcacag actggcttgc caacaaattt
+      181 gattgggcag tggagagctt tgtcattttt cccgtgctga ctcacattgt ttcctatggt
+      241 gccctcacta ccagccattt tcttgacaca gttggtctgg tcactgtgtc tgccgccggg
+      301 tttgtccacg ggcggtatgt tttgagtagc atttatgcgg tctgtgccct ggctgcgttg
+      361 gtttgcttca tcatcaggtc tgcgaagaac tgcatgtcct ggcgctactc atgtaccagg
+      421 tataccaact ttcctctcga caccaagggc agaatctatc gttggcggtc gcccgtcatc
+      481 atagagaaaa ggggtaaagt tgaggttgaa ggtcacctga ttgacctcaa gagagttgtg
+      541 cttgatggtt ccgcggcaac ccctgtaacc agagtttcag cggagcaatg gggtcgtccc
+//
+LOCUS       KY972577                 600 bp    RNA     linear   VRL 06-AUG-2017
+DEFINITION  Porcine reproductive and respiratory syndrome virus strain North
+            American type 2 isolate PRRS/846.2.14/Chile/2001 glycoprotein 5
+            (GP5) gene, partial cds.
+ACCESSION   KY972577
+VERSION     KY972577.1  GI:1226859223
+KEYWORDS    .
+SOURCE      Porcine reproductive and respiratory syndrome virus
+  ORGANISM  Porcine reproductive and respiratory syndrome virus
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage;
+            Nidovirales; Arteriviridae; unclassified Arteriviridae.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Neira,V., Brito,B., Mena,J., Culhane,M., Apel,M.I., Max,V.,
+            Perez,P., Moreno,V., Mathieu,C., Johow,M., Badia,C., Torremorell,M.,
+            Medina,R. and Ortega,R.
+  TITLE     Epidemiological investigations of the introduction of porcine
+            reproductive and respiratory syndrome virus in Chile, 2013-2015
+  JOURNAL   PLoS ONE 12 (7), E0181569 (2017)
+   PUBMED   28742879
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Moreno,V., Mathieu,C., Agredo,M., Rojas,M., Gutierrez,C. and
+            Johow,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2017) Foreign Animal Disease Research Unit, Plum
+            Island Animal Disease Center, USDA/ARS, P.O. Box 848, Greenport, NY
+            11944, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Porcine reproductive and respiratory syndrome
+                     virus"
+                     /mol_type="genomic RNA"
+                     /strain="North American type 2"
+                     /isolate="PRRS/846.2.14/Chile/2001"
+                     /isolation_source="commercial unidentified"
+                     /host="Sus scrofa domesticus"
+                     /db_xref="taxon:28344"
+                     /country="Chile"
+                     /collection_date="2001"
+     gene            1..>600
+                     /gene="GP5"
+                     /note="ORF5"
+     CDS             1..>600
+                     /gene="GP5"
+                     /codon_start=1
+                     /product="glycoprotein 5"
+                     /protein_id="ASQ15649.1"
+                     /db_xref="GI:1226859224"
+                     /translation="MLGRCLTAGYCSQLLFLWCIVPFCSVVLVSANSNSSSHLQLIYNL
+                     TLCELNGTDWLANKFDWAVESFVIFPVLTHIVSYGALTTSHFLDTVGLVTVSAAGFVHG
+                     RYVLSSIYAVCALAALVCFIIRSAKNCMSWRYSCTRYTNFLLDTKGRIYRWRSPVIIEK
+                     RGKVEVEGHLIDLKRVVLDGSAATPVTRVSAEQWGRP"
+ORIGIN
+        1 atgttgggga gatgcttgac cgcgggctat tgctcgcaat tgcttttttt gtggtgtatc
+       61 gtgccgttct gttctgttgt gctcgtcagc gccaacagca acagcagctc ccatttgcaa
+      121 ttaatttaca acttgacgct atgtgagctg aatggcacag actggcttgc caacaaattt
+      181 gattgggcag tggagagctt tgtcattttt cccgtgctga ctcacattgt ttcctatggt
+      241 gccctcacta ccagccattt tcttgacaca gttggtctgg tcactgtgtc tgccgccggg
+      301 tttgtccacg ggcggtatgt tttgagtagc atttatgcgg tctgtgccct ggctgcgttg
+      361 gtttgcttca tcatcaggtc cgcgaagaac tgcatgtcct ggcgctactc atgtaccagg
+      421 tataccaatt tcctcctcga caccaagggc agaatctatc gttggcggtc gcccgtcatc
+      481 atagagaaaa ggggtaaagt tgaggttgaa ggtcacctga ttgacctcaa gagagttgtg
+      541 cttgatggtt ccgcggcaac ccctgtaacc agagtttcag cggagcaatg gggtcgtccc
+//
+LOCUS       KY972576                 600 bp    RNA     linear   VRL 06-AUG-2017
+DEFINITION  Porcine reproductive and respiratory syndrome virus strain North
+            American type 2 isolate PRRS/2401.5/Chile/2000 glycoprotein 5 (GP5)
+            gene, partial cds.
+ACCESSION   KY972576
+VERSION     KY972576.1  GI:1226859221
+KEYWORDS    .
+SOURCE      Porcine reproductive and respiratory syndrome virus
+  ORGANISM  Porcine reproductive and respiratory syndrome virus
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage;
+            Nidovirales; Arteriviridae; unclassified Arteriviridae.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Neira,V., Brito,B., Mena,J., Culhane,M., Apel,M.I., Max,V.,
+            Perez,P., Moreno,V., Mathieu,C., Johow,M., Badia,C., Torremorell,M.,
+            Medina,R. and Ortega,R.
+  TITLE     Epidemiological investigations of the introduction of porcine
+            reproductive and respiratory syndrome virus in Chile, 2013-2015
+  JOURNAL   PLoS ONE 12 (7), E0181569 (2017)
+   PUBMED   28742879
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Moreno,V., Mathieu,C., Agredo,M., Rojas,M., Gutierrez,C. and
+            Johow,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2017) Foreign Animal Disease Research Unit, Plum
+            Island Animal Disease Center, USDA/ARS, P.O. Box 848, Greenport, NY
+            11944, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Porcine reproductive and respiratory syndrome
+                     virus"
+                     /mol_type="genomic RNA"
+                     /strain="North American type 2"
+                     /isolate="PRRS/2401.5/Chile/2000"
+                     /isolation_source="commercial unidentified"
+                     /host="Sus scrofa domesticus"
+                     /db_xref="taxon:28344"
+                     /country="Chile"
+                     /collection_date="2000"
+     gene            1..>600
+                     /gene="GP5"
+                     /note="ORF5"
+     CDS             1..>600
+                     /gene="GP5"
+                     /codon_start=1
+                     /product="glycoprotein 5"
+                     /protein_id="ASQ15648.1"
+                     /db_xref="GI:1226859222"
+                     /translation="MLGRCLTAGYCSQLLFLWCIVPFCSVVLVSASSNSSSHLQLIYNL
+                     TLCELNGTDWLANKFDWAVESFVIFPVLTHIVSYGALTTSHFLDTVGLVTVSAAGFLHG
+                     RYVLSSIYAVCALAALVCFIIRSAKNCMSWRYSCTRYTNFLLDTKGRIYRWRSPVIIEK
+                     RGKVEVEGHLIDLKRVVLDGSAATPVTRVSAEQWGRP"
+ORIGIN
+        1 atgttgggaa gatgcttgac cgcgggctat tgctcgcaat tgcttttttt gtggtgtatc
+       61 gtgccgttct gttctgttgt gctcgtcagc gccagcagca acagcagctc ccatttgcaa
+      121 ttaatttaca acttgacgct atgtgagctg aatggcacag actggcttgc caacaaattt
+      181 gattgggcag tggagagctt tgtcattttt cccgtgctga ctcacattgt ttcctatggt
+      241 gccctcacta ccagccattt tcttgacaca gttggtctgg tcactgtgtc tgccgccggg
+      301 tttctccacg ggcggtatgt tttgagtagc atttacgcgg tctgcgccct ggctgcgttg
+      361 gtttgcttca tcatcaggtc tgcgaagaac tgcatgtcct ggcgctactc atgtaccagg
+      421 tataccaatt ttctcctcga caccaagggc agaatctatc gttggcggtc gcccgtcatc
+      481 atagagaaaa ggggtaaagt ggaggttgaa ggtcacctga ttgacctcaa gagagttgtg
+      541 cttgatggtt ccgcggcaac ccctgtaacc agagtttcag cggagcaatg gggtcgtccc
+//
+LOCUS       KY972575                 600 bp    RNA     linear   VRL 06-AUG-2017
+DEFINITION  Porcine reproductive and respiratory syndrome virus strain North
+            American type 2 isolate PRRS/5659/Chile/2013 glycoprotein 5 (GP5)
+            gene, partial cds.
+ACCESSION   KY972575
+VERSION     KY972575.1  GI:1226859219
+KEYWORDS    .
+SOURCE      Porcine reproductive and respiratory syndrome virus
+  ORGANISM  Porcine reproductive and respiratory syndrome virus
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage;
+            Nidovirales; Arteriviridae; unclassified Arteriviridae.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Neira,V., Brito,B., Mena,J., Culhane,M., Apel,M.I., Max,V.,
+            Perez,P., Moreno,V., Mathieu,C., Johow,M., Badia,C., Torremorell,M.,
+            Medina,R. and Ortega,R.
+  TITLE     Epidemiological investigations of the introduction of porcine
+            reproductive and respiratory syndrome virus in Chile, 2013-2015
+  JOURNAL   PLoS ONE 12 (7), E0181569 (2017)
+   PUBMED   28742879
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Moreno,V., Mathieu,C., Agredo,M., Rojas,M., Gutierrez,C. and
+            Johow,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2017) Foreign Animal Disease Research Unit, Plum
+            Island Animal Disease Center, USDA/ARS, P.O. Box 848, Greenport, NY
+            11944, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Porcine reproductive and respiratory syndrome
+                     virus"
+                     /mol_type="genomic RNA"
+                     /strain="North American type 2"
+                     /isolate="PRRS/5659/Chile/2013"
+                     /isolation_source="commercial farm 1"
+                     /host="Sus scrofa domesticus"
+                     /db_xref="taxon:28344"
+                     /country="Chile"
+                     /collection_date="18-Oct-2013"
+     gene            1..>600
+                     /gene="GP5"
+                     /note="ORF5"
+     CDS             1..>600
+                     /gene="GP5"
+                     /codon_start=1
+                     /product="glycoprotein 5"
+                     /protein_id="ASQ15647.1"
+                     /db_xref="GI:1226859220"
+                     /translation="MLGKCLTAGCCSQLPFLWCIVPFCFVALTNANNSSSSHLQLIYNL
+                     TICELNGTDWLDQKFDWAVETFVIFPVLTHIVSYGALTTSHFLDTVGLITVSTAGYYHR
+                     RYVLSSIYAVCALAALICFVIRLTKNCMSWRYSCTRYTNFLLDTKGKLYRWRSPVIVEK
+                     GGKIEVNGHLIDLKKVVLDGSAATPVTKVSAEQWVRP"
+ORIGIN
+        1 atgttgggga aatgcttgac cgcgggctgt tgctcgcaat tgcctttttt gtggtgtatc
+       61 gtgccgttct gttttgttgc gctcaccaac gccaacaaca gcagcagctc ccatttacag
+      121 ttgatttata acctgacaat atgtgagctg aatggcacag attggctaga ccaaaagttt
+      181 gattgggcag tggagacttt tgtcatcttt cctgtattga ctcacatcgt ctcctatggt
+      241 gccctcacca ccagtcattt ccttgacaca gtcggtttga tcaccgtgtc caccgccgga
+      301 tactaccaca ggcggtatgt cctgagtagc atttatgctg tctgcgccct ggccgcgctg
+      361 atttgcttcg tcattaggct gacaaaaaac tgcatgtcct ggcgctactc atgtactaga
+      421 tatactaatt ttcttctaga caccaagggc aaactctatc gttggcggtc tcctgtcatc
+      481 gtagagaaag ggggaaaaat cgaggttaac ggtcacttga tcgacctcaa gaaagttgtg
+      541 cttgatggtt ccgcagcaac tcctgtaacc aaagtttcag cggaacaatg ggtacgtcct
+//
+LOCUS       KY972574                 600 bp    RNA     linear   VRL 06-AUG-2017
+DEFINITION  Porcine reproductive and respiratory syndrome virus strain North
+            American type 2 isolate PRRS/108/Chile/2014 glycoprotein 5 (GP5)
+            gene, partial cds.
+ACCESSION   KY972574
+VERSION     KY972574.1  GI:1226859217
+KEYWORDS    .
+SOURCE      Porcine reproductive and respiratory syndrome virus
+  ORGANISM  Porcine reproductive and respiratory syndrome virus
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage;
+            Nidovirales; Arteriviridae; unclassified Arteriviridae.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Neira,V., Brito,B., Mena,J., Culhane,M., Apel,M.I., Max,V.,
+            Perez,P., Moreno,V., Mathieu,C., Johow,M., Badia,C., Torremorell,M.,
+            Medina,R. and Ortega,R.
+  TITLE     Epidemiological investigations of the introduction of porcine
+            reproductive and respiratory syndrome virus in Chile, 2013-2015
+  JOURNAL   PLoS ONE 12 (7), E0181569 (2017)
+   PUBMED   28742879
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Moreno,V., Mathieu,C., Agredo,M., Rojas,M., Gutierrez,C. and
+            Johow,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2017) Foreign Animal Disease Research Unit, Plum
+            Island Animal Disease Center, USDA/ARS, P.O. Box 848, Greenport, NY
+            11944, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Porcine reproductive and respiratory syndrome
+                     virus"
+                     /mol_type="genomic RNA"
+                     /strain="North American type 2"
+                     /isolate="PRRS/108/Chile/2014"
+                     /isolation_source="commercial farm 5"
+                     /host="Sus scrofa domesticus"
+                     /db_xref="taxon:28344"
+                     /country="Chile"
+                     /collection_date="02-Jan-2014"
+     gene            1..>600
+                     /gene="GP5"
+                     /note="ORF5"
+     CDS             1..>600
+                     /gene="GP5"
+                     /codon_start=1
+                     /product="glycoprotein 5"
+                     /protein_id="ASQ15646.1"
+                     /db_xref="GI:1226859218"
+                     /translation="MLGKCLTAGCCSQLPFLWCIVPFCFVALTNANNSSSSHLQLIYNL
+                     TICELNGTDWLDQKFDWAVETFVIFPVLTHIVSYGALTTSHFLDTVGLITVSTAGYYHR
+                     RYVLSSIYAVCALAALICFVIRLTKNCMSWRYSCTRYTNFLLDTKGKLYRWRSPVIVEK
+                     GGKIEVNGHLIDLKKVVLDGSAATPVTKVSAEQWGRP"
+ORIGIN
+        1 atgttgggga aatgcttgac cgcgggctgt tgctcgcaat tgcctttttt gtggtgtatc
+       61 gtgccgttct gttttgttgc gctcaccaac gccaacaaca gcagcagctc ccatttacag
+      121 ttgatttata acctgacaat atgtgagctg aatggcacag attggctaga ccaaaagttt
+      181 gattgggcag tggagacttt tgtcatcttt cctgtattga ctcacatcgt ctcctatggt
+      241 gccctcacca ccagtcattt ccttgacaca gtcggtttga tcaccgtgtc caccgccgga
+      301 tactaccaca ggcggtatgt cctgagtagc atttacgctg tctgcgccct ggccgcgctg
+      361 atttgcttcg tcattaggct gacaaaaaac tgcatgtcct ggcgctactc atgtactaga
+      421 tatactaatt ttcttctaga caccaagggt aaactctatc gttggcggtc tcctgtcatc
+      481 gtagagaaag ggggaaaaat cgaggttaac ggtcacttga tcgacctcaa gaaagttgtg
+      541 cttgatggtt ccgcagcaac ccctgtaacc aaagtttcag cggaacaatg gggacgtcct
+//
+LOCUS       KY972573                 600 bp    RNA     linear   VRL 06-AUG-2017
+DEFINITION  Porcine reproductive and respiratory syndrome virus strain North
+            American type 2 isolate PRRS/7249/Chile/2013 glycoprotein 5 (GP5)
+            gene, partial cds.
+ACCESSION   KY972573
+VERSION     KY972573.1  GI:1226859215
+KEYWORDS    .
+SOURCE      Porcine reproductive and respiratory syndrome virus
+  ORGANISM  Porcine reproductive and respiratory syndrome virus
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage;
+            Nidovirales; Arteriviridae; unclassified Arteriviridae.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Neira,V., Brito,B., Mena,J., Culhane,M., Apel,M.I., Max,V.,
+            Perez,P., Moreno,V., Mathieu,C., Johow,M., Badia,C., Torremorell,M.,
+            Medina,R. and Ortega,R.
+  TITLE     Epidemiological investigations of the introduction of porcine
+            reproductive and respiratory syndrome virus in Chile, 2013-2015
+  JOURNAL   PLoS ONE 12 (7), E0181569 (2017)
+   PUBMED   28742879
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Moreno,V., Mathieu,C., Agredo,M., Rojas,M., Gutierrez,C. and
+            Johow,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2017) Foreign Animal Disease Research Unit, Plum
+            Island Animal Disease Center, USDA/ARS, P.O. Box 848, Greenport, NY
+            11944, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Porcine reproductive and respiratory syndrome
+                     virus"
+                     /mol_type="genomic RNA"
+                     /strain="North American type 2"
+                     /isolate="PRRS/7249/Chile/2013"
+                     /isolation_source="commercial farm 4"
+                     /host="Sus scrofa domesticus"
+                     /db_xref="taxon:28344"
+                     /country="Chile"
+                     /collection_date="20-Dec-2013"
+     gene            1..>600
+                     /gene="GP5"
+                     /note="ORF5"
+     CDS             1..>600
+                     /gene="GP5"
+                     /codon_start=1
+                     /product="glycoprotein 5"
+                     /protein_id="ASQ15645.1"
+                     /db_xref="GI:1226859216"
+                     /translation="MLGKCLTAGCCSQLPFLWCIVPFCFVALTNANNSSSSHLQLIYNL
+                     TICELNGTDWLDQKFDWAVETFVIFPVLTHIVSYGALTTSHFLDTVGLITVSTAGYYHR
+                     RYVLSSIYAVCALAALICFVIRLTKNCMSWRYSCTRYTNFLLDTKGKLYRWRSPVIVEK
+                     GGKIEVNGHLIDLKKVVLDGSAATPVTKVSAEQWGRP"
+ORIGIN
+        1 atgttgggga aatgcttgac cgcgggctgt tgctcgcaat tgcctttttt gtggtgtatc
+       61 gtgccgttct gttttgttgc gctcaccaac gccaacaaca gcagcagctc ccatttacag
+      121 ttgatttata acctgacaat atgtgagctg aatggcacag attggctaga ccaaaagttt
+      181 gattgggcag tggagacttt tgtcatcttt cctgtattga ctcacatcgt ctcctatggt
+      241 gccctcacca ccagtcattt ccttgacaca gtcggtttga tcaccgtgtc caccgccgga
+      301 tactaccaca ggcggtatgt cctgagtagc atttacgctg tctgcgccct ggccgcgctg
+      361 atttgcttcg tcattaggct gacaaaaaac tgcatgtcct ggcgctactc atgtactaga
+      421 tatactaatt ttcttctaga caccaagggt aaactctatc gttggcggtc tcctgtcatc
+      481 gtagagaaag ggggaaaaat cgaggttaac ggtcacttga tcgacctcaa gaaagttgtg
+      541 cttgatggtt ccgcagcaac ccctgtaacc aaagtttcag cggaacaatg gggacgtcct
+//
+LOCUS       KY972572                 600 bp    RNA     linear   VRL 06-AUG-2017
+DEFINITION  Porcine reproductive and respiratory syndrome virus strain North
+            American type 2 isolate PRRS/6913/Chile/2013 glycoprotein 5 (GP5)
+            gene, partial cds.
+ACCESSION   KY972572
+VERSION     KY972572.1  GI:1226859213
+KEYWORDS    .
+SOURCE      Porcine reproductive and respiratory syndrome virus
+  ORGANISM  Porcine reproductive and respiratory syndrome virus
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage;
+            Nidovirales; Arteriviridae; unclassified Arteriviridae.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Neira,V., Brito,B., Mena,J., Culhane,M., Apel,M.I., Max,V.,
+            Perez,P., Moreno,V., Mathieu,C., Johow,M., Badia,C., Torremorell,M.,
+            Medina,R. and Ortega,R.
+  TITLE     Epidemiological investigations of the introduction of porcine
+            reproductive and respiratory syndrome virus in Chile, 2013-2015
+  JOURNAL   PLoS ONE 12 (7), E0181569 (2017)
+   PUBMED   28742879
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Moreno,V., Mathieu,C., Agredo,M., Rojas,M., Gutierrez,C. and
+            Johow,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2017) Foreign Animal Disease Research Unit, Plum
+            Island Animal Disease Center, USDA/ARS, P.O. Box 848, Greenport, NY
+            11944, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Porcine reproductive and respiratory syndrome
+                     virus"
+                     /mol_type="genomic RNA"
+                     /strain="North American type 2"
+                     /isolate="PRRS/6913/Chile/2013"
+                     /isolation_source="backyard farm 3"
+                     /host="Sus scrofa domesticus"
+                     /db_xref="taxon:28344"
+                     /country="Chile"
+                     /collection_date="05-Dec-2013"
+     gene            1..>600
+                     /gene="GP5"
+                     /note="ORF5"
+     CDS             1..>600
+                     /gene="GP5"
+                     /codon_start=1
+                     /product="glycoprotein 5"
+                     /protein_id="ASQ15644.1"
+                     /db_xref="GI:1226859214"
+                     /translation="MLGKCLTAGCCSQLPFLWCIVPFCFVALTNANNSSSSHLQLIYNL
+                     TICELNGTDWLDQKFDWAVETFVIFPVLTHIVSYGALTTSHFLDTVGLITVSTAGYYHR
+                     RYVLSSIYAVCALAALICFVIRLTKNCMSWRYSCTRYTNFLLDTKGKLYRWRSPVIVEK
+                     GGKIEVNGHLIDLKKVVLDGSAATPVTKVSAEQWGRP"
+ORIGIN
+        1 atgttgggga aatgcttgac cgcgggctgt tgctcgcaat tgcctttttt gtggtgtatc
+       61 gtgccgttct gttttgttgc gctcaccaac gccaacaaca gcagcagctc ccatttacag
+      121 ttgatttata acctgacaat atgtgagctg aatggcacag attggctaga ccaaaagttt
+      181 gattgggcag tggagacttt tgtcatcttt cctgtattga ctcacatcgt ctcctatggt
+      241 gccctcacca ccagtcattt ccttgacaca gtcggtttga tcaccgtgtc caccgccgga
+      301 tactaccaca ggcggtatgt cctgagtagc atttacgctg tctgcgccct ggccgcgctg
+      361 atttgcttcg tcattaggct gacaaaaaac tgcatgtcct ggcgctactc atgtactaga
+      421 tatactaatt ttcttctaga caccaagggt aaactctatc gttggcggtc tcctgtcatc
+      481 gtagagaaag ggggaaaaat cgaggttaac ggtcacttga tcgacctcaa gaaagttgtg
+      541 cttgatggtt ccgcagcaac ccctgtaacc aaagtttcag cggaacaatg gggacgtcct
+//
+LOCUS       KY972571                 600 bp    RNA     linear   VRL 06-AUG-2017
+DEFINITION  Porcine reproductive and respiratory syndrome virus strain North
+            American type 2 isolate PRRS/6906/Chile/2013 glycoprotein 5 (GP5)
+            gene, partial cds.
+ACCESSION   KY972571
+VERSION     KY972571.1  GI:1226859211
+KEYWORDS    .
+SOURCE      Porcine reproductive and respiratory syndrome virus
+  ORGANISM  Porcine reproductive and respiratory syndrome virus
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage;
+            Nidovirales; Arteriviridae; unclassified Arteriviridae.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Neira,V., Brito,B., Mena,J., Culhane,M., Apel,M.I., Max,V.,
+            Perez,P., Moreno,V., Mathieu,C., Johow,M., Badia,C., Torremorell,M.,
+            Medina,R. and Ortega,R.
+  TITLE     Epidemiological investigations of the introduction of porcine
+            reproductive and respiratory syndrome virus in Chile, 2013-2015
+  JOURNAL   PLoS ONE 12 (7), E0181569 (2017)
+   PUBMED   28742879
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Moreno,V., Mathieu,C., Agredo,M., Rojas,M., Gutierrez,C. and
+            Johow,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2017) Foreign Animal Disease Research Unit, Plum
+            Island Animal Disease Center, USDA/ARS, P.O. Box 848, Greenport, NY
+            11944, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Porcine reproductive and respiratory syndrome
+                     virus"
+                     /mol_type="genomic RNA"
+                     /strain="North American type 2"
+                     /isolate="PRRS/6906/Chile/2013"
+                     /isolation_source="commercial farm 4"
+                     /host="Sus scrofa domesticus"
+                     /db_xref="taxon:28344"
+                     /country="Chile"
+                     /collection_date="05-Dec-2013"
+     gene            1..>600
+                     /gene="GP5"
+                     /note="ORF5"
+     CDS             1..>600
+                     /gene="GP5"
+                     /codon_start=1
+                     /product="glycoprotein 5"
+                     /protein_id="ASQ15643.1"
+                     /db_xref="GI:1226859212"
+                     /translation="MLGKCLTAGCCSQLPFLWCIVPFCFVALTNANNSSSSHLQLIYNL
+                     TICELNGTDWLDQKFDWAVETFVIFPVLTHIVSYGALTTSHFLDTVGLITVSTAGYYHR
+                     RYVLSSIYAVCALAALICFVIRLTKNCMSWRYSCTRYTNFLLDTKGKLYRWRSPVIVEK
+                     GGKIEVNGHLIDLKKVVLDGSAATPVTKVSAEQWGRP"
+ORIGIN
+        1 atgttgggga aatgcttgac cgcgggctgt tgctcgcaat tgcctttttt gtggtgtatc
+       61 gtgccgttct gttttgttgc gctcaccaac gccaacaaca gcagcagctc ccatttacag
+      121 ttgatttata acctgacaat atgtgagctg aatggcacag attggctaga ccaaaagttt
+      181 gattgggcag tggagacttt tgtcatcttt cctgtattga ctcacatcgt ctcctatggt
+      241 gccctcacca ccagtcattt ccttgacaca gtcggtttga tcaccgtgtc caccgccgga
+      301 tactaccaca ggcggtatgt cctgagtagc atttacgctg tctgcgccct ggccgcgctg
+      361 atttgcttcg tcattaggct gacaaaaaac tgcatgtcct ggcgctactc atgtactaga
+      421 tatactaatt ttcttctaga caccaagggt aaactctatc gttggcggtc tcctgtcatc
+      481 gtagagaaag ggggaaaaat cgaggttaac ggtcacttga tcgacctcaa gaaagttgtg
+      541 cttgatggtt ccgcagcaac ccctgtaacc aaagtttcag cggaacaatg gggacgtcct
+//
+LOCUS       KY972570                 600 bp    RNA     linear   VRL 06-AUG-2017
+DEFINITION  Porcine reproductive and respiratory syndrome virus strain North
+            American type 2 isolate PRRS/6810/Chile/2013 glycoprotein 5 (GP5)
+            gene, partial cds.
+ACCESSION   KY972570
+VERSION     KY972570.1  GI:1226859209
+KEYWORDS    .
+SOURCE      Porcine reproductive and respiratory syndrome virus
+  ORGANISM  Porcine reproductive and respiratory syndrome virus
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage;
+            Nidovirales; Arteriviridae; unclassified Arteriviridae.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Neira,V., Brito,B., Mena,J., Culhane,M., Apel,M.I., Max,V.,
+            Perez,P., Moreno,V., Mathieu,C., Johow,M., Badia,C., Torremorell,M.,
+            Medina,R. and Ortega,R.
+  TITLE     Epidemiological investigations of the introduction of porcine
+            reproductive and respiratory syndrome virus in Chile, 2013-2015
+  JOURNAL   PLoS ONE 12 (7), E0181569 (2017)
+   PUBMED   28742879
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Moreno,V., Mathieu,C., Agredo,M., Rojas,M., Gutierrez,C. and
+            Johow,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2017) Foreign Animal Disease Research Unit, Plum
+            Island Animal Disease Center, USDA/ARS, P.O. Box 848, Greenport, NY
+            11944, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Porcine reproductive and respiratory syndrome
+                     virus"
+                     /mol_type="genomic RNA"
+                     /strain="North American type 2"
+                     /isolate="PRRS/6810/Chile/2013"
+                     /isolation_source="commercial farm 4"
+                     /host="Sus scrofa domesticus"
+                     /db_xref="taxon:28344"
+                     /country="Chile"
+                     /collection_date="03-Dec-2013"
+     gene            1..>600
+                     /gene="GP5"
+                     /note="ORF5"
+     CDS             1..>600
+                     /gene="GP5"
+                     /codon_start=1
+                     /product="glycoprotein 5"
+                     /protein_id="ASQ15642.1"
+                     /db_xref="GI:1226859210"
+                     /translation="MLGKCLTAGCCSQLPFLWCIVPFCFVALTNANNSSSSHLQLIYNL
+                     TICELNGTDWLDQKFDWAVETFVIFPVLTHIVSYGALTTSHFLDTVGLITVSTAGYYHR
+                     RYVLSSIYAVCALAALICFVIRLTKNCMSWRYSCTRYTNFLLDTKGKLYRWRSPVIVEK
+                     GGKIEVNGHLIDLKKVVLDGSAATPVTKVSAEQWGRP"
+ORIGIN
+        1 atgttgggga aatgcttgac cgcgggctgt tgctcgcaat tgcctttttt gtggtgtatc
+       61 gtgccgttct gttttgttgc gctcaccaac gccaacaaca gcagcagctc ccatttacag
+      121 ttgatttata acctgacaat atgtgagctg aatggcacag attggctaga ccaaaagttt
+      181 gattgggcag tggagacttt tgtcatcttt cctgtattga ctcacatcgt ctcctatggt
+      241 gccctcacca ccagtcattt ccttgacaca gtcggtttga tcaccgtgtc caccgccgga
+      301 tactaccaca ggcggtatgt cctgagtagc atttacgctg tctgcgccct ggccgcgctg
+      361 atttgcttcg tcattaggct gacaaaaaac tgcatgtcct ggcgctactc atgtactaga
+      421 tatactaatt ttcttctaga caccaagggt aaactctatc gttggcggtc tcctgtcatc
+      481 gtagagaaag ggggaaaaat cgaggttaac ggtcacttga tcgacctcaa gaaagttgtg
+      541 cttgatggtt ccgcagcaac ccctgtaacc aaagtttcag cggaacaatg gggacgtcct
+//
+LOCUS       KY972569                 600 bp    RNA     linear   VRL 06-AUG-2017
+DEFINITION  Porcine reproductive and respiratory syndrome virus strain North
+            American type 2 isolate PRRS/6720/Chile/2013 glycoprotein 5 (GP5)
+            gene, partial cds.
+ACCESSION   KY972569
+VERSION     KY972569.1  GI:1226859207
+KEYWORDS    .
+SOURCE      Porcine reproductive and respiratory syndrome virus
+  ORGANISM  Porcine reproductive and respiratory syndrome virus
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage;
+            Nidovirales; Arteriviridae; unclassified Arteriviridae.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Neira,V., Brito,B., Mena,J., Culhane,M., Apel,M.I., Max,V.,
+            Perez,P., Moreno,V., Mathieu,C., Johow,M., Badia,C., Torremorell,M.,
+            Medina,R. and Ortega,R.
+  TITLE     Epidemiological investigations of the introduction of porcine
+            reproductive and respiratory syndrome virus in Chile, 2013-2015
+  JOURNAL   PLoS ONE 12 (7), E0181569 (2017)
+   PUBMED   28742879
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Moreno,V., Mathieu,C., Agredo,M., Rojas,M., Gutierrez,C. and
+            Johow,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2017) Foreign Animal Disease Research Unit, Plum
+            Island Animal Disease Center, USDA/ARS, P.O. Box 848, Greenport, NY
+            11944, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Porcine reproductive and respiratory syndrome
+                     virus"
+                     /mol_type="genomic RNA"
+                     /strain="North American type 2"
+                     /isolate="PRRS/6720/Chile/2013"
+                     /isolation_source="backyard farm 2"
+                     /host="Sus scrofa domesticus"
+                     /db_xref="taxon:28344"
+                     /country="Chile"
+                     /collection_date="28-Nov-2013"
+     gene            1..>600
+                     /gene="GP5"
+                     /note="ORF5"
+     CDS             1..>600
+                     /gene="GP5"
+                     /codon_start=1
+                     /product="glycoprotein 5"
+                     /protein_id="ASQ15641.1"
+                     /db_xref="GI:1226859208"
+                     /translation="MLGKCLTAGCCSQLPFLWCIVPFCFVALTNANNSSSSHLQLIYNL
+                     TICELNGTDWLDQKFDWAVETFVIFPVLTHIVSYGALTTSHFLDTVGLITVSTAGYYHR
+                     RYVLSSIYAVCALAALICFVIRLTKNCMSWRYSCTRYTNFLLDTKGKLYRWRSPVIVEK
+                     GGKIEVNGHLIDLKKVVLDGSAATPVTKVSAEQWGRP"
+ORIGIN
+        1 atgttgggga aatgcttgac cgcgggctgt tgctcgcaat tgcctttttt gtggtgtatc
+       61 gtgccgttct gttttgttgc gctcaccaac gccaacaaca gcagcagctc ccatttacag
+      121 ttgatttata acctgacaat atgtgagctg aatggcacag attggctaga ccaaaagttt
+      181 gattgggcag tggagacttt tgtcatcttt cctgtattga ctcacatcgt ctcctatggt
+      241 gccctcacca ccagtcattt ccttgacaca gtcggtttga tcaccgtgtc caccgccgga
+      301 tactaccaca ggcggtatgt cctgagtagc atttacgctg tctgcgccct ggccgcgctg
+      361 atttgcttcg tcattaggct gacaaaaaac tgcatgtcct ggcgctactc atgtactaga
+      421 tatactaatt ttcttctaga caccaagggt aaactctatc gttggcggtc tcctgtcatc
+      481 gtagagaaag ggggaaaaat cgaggttaac ggtcacttga tcgacctcaa gaaagttgtg
+      541 cttgatggtt ccgcagcaac ccctgtaacc aaagtttcag cggaacaatg gggacgtcct
+//
+LOCUS       KY972568                 600 bp    RNA     linear   VRL 06-AUG-2017
+DEFINITION  Porcine reproductive and respiratory syndrome virus strain North
+            American type 2 isolate PRRS/6631/Chile/2013 glycoprotein 5 (GP5)
+            gene, partial cds.
+ACCESSION   KY972568
+VERSION     KY972568.1  GI:1226859205
+KEYWORDS    .
+SOURCE      Porcine reproductive and respiratory syndrome virus
+  ORGANISM  Porcine reproductive and respiratory syndrome virus
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA stage;
+            Nidovirales; Arteriviridae; unclassified Arteriviridae.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Neira,V., Brito,B., Mena,J., Culhane,M., Apel,M.I., Max,V.,
+            Perez,P., Moreno,V., Mathieu,C., Johow,M., Badia,C., Torremorell,M.,
+            Medina,R. and Ortega,R.
+  TITLE     Epidemiological investigations of the introduction of porcine
+            reproductive and respiratory syndrome virus in Chile, 2013-2015
+  JOURNAL   PLoS ONE 12 (7), E0181569 (2017)
+   PUBMED   28742879
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Moreno,V., Mathieu,C., Agredo,M., Rojas,M., Gutierrez,C. and
+            Johow,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2017) Foreign Animal Disease Research Unit, Plum
+            Island Animal Disease Center, USDA/ARS, P.O. Box 848, Greenport, NY
+            11944, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Porcine reproductive and respiratory syndrome
+                     virus"
+                     /mol_type="genomic RNA"
+                     /strain="North American type 2"
+                     /isolate="PRRS/6631/Chile/2013"
+                     /isolation_source="commercial farm 3"
+                     /host="Sus scrofa domesticus"
+                     /db_xref="taxon:28344"
+                     /country="Chile"
+                     /collection_date="25-Nov-2013"
+     gene            1..>600
+                     /gene="GP5"
+                     /note="ORF5"
+     CDS             1..>600
+                     /gene="GP5"
+                     /codon_start=1
+                     /product="glycoprotein 5"
+                     /protein_id="ASQ15640.1"
+                     /db_xref="GI:1226859206"
+                     /translation="MLGKCLTAGCCSQLPFLWCIVPFCFVALTNANNSSSSHLQLIYNL
+                     TICELNGTDWLDQKFDWAVETFVIFPVLTHIVSYGALTTSHFLDTVGLITVSTAGYYHR
+                     RYVLSSIYAVCALAALICFVIRLTKNCMSWRYSCTRYTNFLLDTKGKLYRWRSPVIVEK
+                     GGKIEVNGHLIDLKKVVLDGSAATPVTKVSAEQWGRP"
+ORIGIN
+        1 atgttgggga aatgcttgac cgcgggctgt tgctcgcaat tgcctttttt gtggtgtatc
+       61 gtgccgttct gttttgttgc gctcaccaac gccaacaaca gcagcagctc ccatttacag
+      121 ttgatttata acctgacaat atgtgagctg aatggcacag attggctaga ccaaaagttt
+      181 gattgggcag tggagacttt tgtcatcttt cctgtattga ctcacatcgt ctcctatggt
+      241 gccctcacca ccagtcattt ccttgacaca gtcggtttga tcaccgtgtc caccgccgga
+      301 tactaccaca ggcggtatgt cctgagtagc atttacgctg tctgcgccct ggccgcgctg
+      361 atttgcttcg tcattaggct gacaaaaaac tgcatgtcct ggcgctactc atgtactaga
+      421 tatactaatt ttcttctaga caccaagggt aaactctatc gttggcggtc tcctgtcatc
+      481 gtagagaaag ggggaaaaat cgaggttaac ggtcacttga tcgacctcaa gaaagttgtg
+      541 cttgatggtt ccgcagcaac ccctgtaacc aaagtttcag cggaacaatg gggacgtcct
+//
