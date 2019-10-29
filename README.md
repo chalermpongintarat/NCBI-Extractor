@@ -21,13 +21,13 @@ Compiler:
 
 Documents:
   1. Directory
-      NCBI-Extractor
-      |_extractor
-        |_loal
-          |_export
-          |_import
-            |_example_file
-          |_script
+  NCBI-Extractor
+  |_extractor
+    |_loal
+      |_export
+      |_import
+        |_example_file
+      |_script
 
   2. Main Menu
   Feature Extractor include 6 Modules.
