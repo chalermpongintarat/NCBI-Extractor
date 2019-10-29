@@ -1,5 +1,6 @@
 # NCBI-Extractor
-# Using for simple NCBI sequences filters.
+
+Using for simple NCBI sequences filters.
 
 Support:
   1. Python3
