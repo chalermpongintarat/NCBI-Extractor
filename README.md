@@ -21,14 +21,13 @@ Compiler:
 
 Documents:
   1. Main Menu: 6 modules includes 
-      Convert File
-      Extract Description
-      Extract Source
-      Extract Gene
-      Extract CDS
-      Extract MISC Features
-  2. Module 1 using file "sequence.gb.txt" convert to .fasta, .gbk, using file "sequence.fasta" convert to .gbk.
-  3. Module 2-6 using file "sequence.gbk" to extract info of Description, Source, Gene, CDS and MISC Features.
+  Module 1. Convert File - using file "sequence.gb.txt" convert to .fasta, .gbk and using file "sequence.fasta" convert to .gbk.
+	Module 2. Extract Description - using file "sequence.gbk" to extract info of Description.
+	Module 3. Extract Source - using file "sequence.gbk" to extract info of Source.
+	Module 4. Extract Gene - using file "sequence.gbk" to extract info of Gene.
+	Module 5. Extract CDS - using file "sequence.gbk" to extract info of CDS.
+	Module 6. Extract MISC Features - using file "sequence.gbk" to extract info of MISC Features.
+  
   *** Field of NCBI Sequence see in references ***
 
 References:
