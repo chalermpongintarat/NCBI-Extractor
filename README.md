@@ -20,7 +20,7 @@ Compiler:
   2. python3 main.py
 
 Documents:
-  1. Main Menu: Feature Extractor 6 modules includes Convert File, Extract Description, Extract Source, Extract Gene, Extract CDS and Extract MISC Features.
+  1. Main Menu: 6 modules includes Convert File, Extract Description, Extract Source, Extract Gene, Extract CDS and Extract MISC Features.
   2. Module 1 using file "sequence.gb.txt" convert to .fasta, .gbk, using file "sequence.fasta" convert to .gbk.
   3. Module 2-6 using file "sequence.gbk" to extract info of Description, Source, Gene, CDS and MISC Features.
   *** Field of NCBI Sequence see in references ***
