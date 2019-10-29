@@ -31,15 +31,8 @@ Documents:
 
   2. Main Menu
   Feature Extractor include 6 Modules.
-  Module 1. Convert File
-  - Using file "sequence.gb.txt" convert to .fasta, .gbk.
-  - Using file "sequence.fasta" convert to .gbk.
-  Module 2. Extract Description
-  Module 3. Extract Source
-  Module 4. Extract Gene
-  Module 5. Extract CDS
-  Module 6. Extract MISC Features	
-  - Module 2-6 using file "sequence.gbk" to extract info of Description, Source, Gene, CDS and MISC Features.
+  Module 1 using file "sequence.gb.txt" convert to .fasta, .gbk, using file "sequence.fasta" convert to .gbk.
+  Module 2-6 using file "sequence.gbk" to extract info of Description, Source, Gene, CDS and MISC Features.
   *** Field of NCBI Sequence see in references ***
 
 References:
