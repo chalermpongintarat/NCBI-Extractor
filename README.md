@@ -30,7 +30,7 @@ Documents:
           |_script
 
   2. Main Menu
-  Feature Extractor include 6 Modules
+  Feature Extractor include 6 Modules.
   Module 1. Convert File
   - Using file "sequence.gb.txt" convert to .fasta, .gbk.
   - Using file "sequence.fasta" convert to .gbk.
