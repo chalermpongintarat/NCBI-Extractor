@@ -13,7 +13,7 @@ Requires:
 
 Setup:
   1. Putting "NCBI-Extractor" to home directory.
-  2. Putting "sequence.gbk" or "sequence.gb.txt" or "sequence.fasta" to import folder.
+  2. Putting your sequences includes "sequence.gbk" or "sequence.gb.txt" or "sequence.fasta" to import folder.
 
 Compiler:
   1. cd NCBI-Extractor/extractor/local/script/
