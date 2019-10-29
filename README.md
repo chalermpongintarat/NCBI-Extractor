@@ -19,12 +19,12 @@ Compiler:
   1. cd NCBI-Extractor/extractor/local/script/
   2. python3 main.py
 
-Documents:
-	1. Biopython
+Requires2:
+  1. Biopython
   2. GeoPy
   3. Progressbar2
   4. Requests
-
+  
 References:
   1. https://www.ncbi.nlm.nih.gov/books/NBK53701/
   2. https://www.ncbi.nlm.nih.gov/genbank/samplerecord/
