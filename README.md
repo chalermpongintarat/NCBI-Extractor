@@ -20,7 +20,7 @@ Compiler:
   2. python3 main.py
 
 Documents:
-  1. Main Menu: 6 modules includes 
+  1. Main Menu: 6 modules includes.
   Module 1. Convert File - using file "sequence.gb.txt" convert to .fasta, .gbk and using file "sequence.fasta" convert to .gbk.
 	Module 2. Extract Description - using file "sequence.gbk" to extract info of Description.
 	Module 3. Extract Source - using file "sequence.gbk" to extract info of Source.
