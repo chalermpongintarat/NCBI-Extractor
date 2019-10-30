@@ -27,7 +27,7 @@ Documents:
   5. Module 4: Extract Gene - using file "sequence.gbk" to extract info of Gene.
   6. Module 5: Extract CDS - using file "sequence.gbk" to extract info of CDS.
   7. Module 6: Extract MISC Features - using file "sequence.gbk" to extract info of MISC Features.
-  8. Tag of NCBI Sequence see in references.
+  8. Info of NCBI Sequence see in references.
   
 References:
   1. https://www.ncbi.nlm.nih.gov/books/NBK53701/
