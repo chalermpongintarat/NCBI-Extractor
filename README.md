@@ -1,5 +1,4 @@
 # NCBI-Extractor
-Build by Chalermpong Intarat, Nov 20, 2019
 Using for simple NCBI sequences filters.
 
 Support:
