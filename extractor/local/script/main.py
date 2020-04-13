@@ -16,6 +16,8 @@ def main():
         #db_length = len(handle_parse_db)
         print("")
         print("====================================================================")
+        print(" NCBI-Extractor")
+        print("====================================================================")
         print(" Chalermpong Intarat")
         print(" NBT, NSTDA")
         print(" chalermpong.int@biotec.or.th")
