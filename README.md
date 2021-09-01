@@ -34,4 +34,4 @@ References:
   3. https://www.ncbi.nlm.nih.gov/WebSub/html/help/genbank-source-table.html
 
 Bug report:
-chalermpong.int@biotec.or.th
+chalermpong.int@nstda.or.th
