@@ -33,5 +33,5 @@ References:
   2. https://www.ncbi.nlm.nih.gov/genbank/samplerecord/
   3. https://www.ncbi.nlm.nih.gov/WebSub/html/help/genbank-source-table.html
 
-Bug report:
+Report:
 chalermpong.int@nstda.or.th
